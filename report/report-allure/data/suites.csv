@@ -1,0 +1,25 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Dec 20 14:44:23 CST 2022","Tue Dec 20 14:44:23 CST 2022","10","test_cases","test_create_wallet","TestCreateWallet","","","钱包密码大于30位字符","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:23 CST 2022","Tue Dec 20 14:44:23 CST 2022","11","test_cases","test_create_wallet","TestCreateWallet","","","钱包密码两次密码不一致","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:22 CST 2022","Tue Dec 20 14:44:23 CST 2022","10","test_cases","test_create_wallet","TestCreateWallet","","","钱包密码少于8位字符","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:23 CST 2022","Tue Dec 20 14:44:23 CST 2022","15","test_cases","test_create_wallet","TestCreateWallet","","","钱包密码提示大于50位字符","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:21 CST 2022","Tue Dec 20 14:44:21 CST 2022","10","test_cases","test_create_wallet","TestCreateWallet","","","创建钱包成功","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:21 CST 2022","Tue Dec 20 14:44:21 CST 2022","9","test_cases","test_create_wallet","TestCreateWallet","","","钱包名称大于12位长度","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:23 CST 2022","Tue Dec 20 14:44:23 CST 2022","10","test_cases","test_create_wallet","TestCreateWallet","","","钱包密码为空字符串","
+        创建钱包成功测试用例
+        "
+"broken","Tue Dec 20 14:44:21 CST 2022","Tue Dec 20 14:44:21 CST 2022","19","test_cases","test_create_wallet","TestCreateWallet","","","钱包名称为空格字符","
+        创建钱包成功测试用例
+        "

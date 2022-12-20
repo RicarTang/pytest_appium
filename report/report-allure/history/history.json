@@ -1,0 +1,162 @@
+{
+  "575e877cace2e68c207abbdac030f77e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93b76b9e3a9f2368",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518661760,
+        "stop" : 1671518661769,
+        "duration" : 9
+      }
+    } ]
+  },
+  "b127f5b58eadaf8ce219145a131fe744" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcf87add2ba6251c",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663308,
+        "stop" : 1671518663318,
+        "duration" : 10
+      }
+    } ]
+  },
+  "489979f0a1ac00a8e264698aa981a57f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3451a83bba0ca838",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663079,
+        "stop" : 1671518663089,
+        "duration" : 10
+      }
+    } ]
+  },
+  "e612a7d557f7ec605b63586f979d6b29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60a50b2491299fad",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518661845,
+        "stop" : 1671518661864,
+        "duration" : 19
+      }
+    } ]
+  },
+  "a5418ae4306f21512bbf311e07c19715" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "608194752f405c3c",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518661679,
+        "stop" : 1671518661689,
+        "duration" : 10
+      }
+    } ]
+  },
+  "8ce48ee192c85d5f44e8cff37a178450" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce21ec5e7de3998f",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518662996,
+        "stop" : 1671518663006,
+        "duration" : 10
+      }
+    } ]
+  },
+  "962cadb874f4662ac36214ff8a4aacd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1bbd748a14e81fd",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663168,
+        "stop" : 1671518663179,
+        "duration" : 11
+      }
+    } ]
+  },
+  "1b3cbed8042de9248d0c24203214ba7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "152b87ea1bd6de85",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663406,
+        "stop" : 1671518663421,
+        "duration" : 15
+      }
+    } ]
+  }
+}

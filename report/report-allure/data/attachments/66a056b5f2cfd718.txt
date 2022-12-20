@@ -1,0 +1,19 @@
+INFO     root:test_create_wallet.py:32 执行测试用例:创建钱包成功
+INFO     root:create_wallet_page.py:27 点击创建钱包按钮
+INFO     root:create_wallet_page.py:35 输入钱包名称:Tang
+INFO     root:create_wallet_page.py:43 输入钱包密码:12345678
+INFO     root:create_wallet_page.py:51 重复输入钱包密码:12345678
+INFO     root:create_wallet_page.py:59 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO     root:test_create_wallet.py:32 执行测试用例:创建钱包成功
+ERROR    root:base.py:41 Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)

@@ -1,0 +1,8 @@
+INFO     root:test_create_wallet.py:32 执行测试用例:钱包名称大于12位长度
+INFO     root:create_wallet_page.py:27 点击创建钱包按钮
+INFO     root:create_wallet_page.py:35 输入钱包名称:Tangtangtangt
+INFO     root:create_wallet_page.py:43 输入钱包密码:12345678
+INFO     root:create_wallet_page.py:51 重复输入钱包密码:12345678
+INFO     root:create_wallet_page.py:59 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO     root:create_wallet_page.py:66 点击用户协议
+INFO     root:create_wallet_page.py:73 点击创建钱包按钮

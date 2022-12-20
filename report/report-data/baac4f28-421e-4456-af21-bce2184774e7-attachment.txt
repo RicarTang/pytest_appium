@@ -1,0 +1,13 @@
+INFO     root:test_create_wallet.py:32 执行测试用例:钱包名称为空格字符
+ERROR    root:base.py:39 Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)

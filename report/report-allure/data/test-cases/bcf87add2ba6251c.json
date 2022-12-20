@@ -1,0 +1,140 @@
+{
+  "uid" : "bcf87add2ba6251c",
+  "name" : "钱包密码为空字符串",
+  "fullName" : "test_cases.test_create_wallet.TestCreateWallet#test_create_success",
+  "historyId" : "b127f5b58eadaf8ce219145a131fe744",
+  "time" : {
+    "start" : 1671518663308,
+    "stop" : 1671518663318,
+    "duration" : 10
+  },
+  "description" : "\n        创建钱包成功测试用例\n        ",
+  "descriptionHtml" : "<pre><code>    创建钱包成功测试用例\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'NoneType' object has no attribute 'click'",
+  "statusTrace" : "self = <test_cases.test_create_wallet.TestCreateWallet object at 0x0000029EE89C6CB0>\ndata = {'title': '钱包密码为空字符串', 'walletName': 'Tang', 'walletPassword': '        ', 'walletPasswordHint': '密码提示', ...}\n\n    @allure.story(\"创建钱包表单测试用例\")\n    @pytest.mark.parametrize('data',\n                             LoadFile(file=os.path.join(os.path.dirname(__file__),\n                                                        '../data/test_data/create_wallet.yaml'),\n                                      mode='r'))\n    def test_create_success(self, data: dict):\n        \"\"\"\n        创建钱包成功测试用例\n        \"\"\"\n        allure.dynamic.title(data['title'])\n        log.info(f\"执行测试用例:{data['title']}\")\n        with allure.step(\"step1:点击创建钱包按钮\"):\n>           self.create_btn_click()\n\ntest_cases\\test_create_wallet.py:34: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\npages\\create_wallet_page.py:26: in create_btn_click\n    self.click(self.create_wallet_btn)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <test_cases.test_create_wallet.TestCreateWallet object at 0x0000029EE89C6CB0>\nloc = ('xpath', '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget...android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.widget.Button[1]')\n\n    def click(self, loc: tuple):\n        \"\"\"\n        点击元素\n        :param loc: 定位器\n        \"\"\"\n>       self.locator(loc=loc).click()\nE       AttributeError: 'NoneType' object has no attribute 'click'\n\nbasic\\base.py:48: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n        创建钱包成功测试用例\n        ",
+    "status" : "broken",
+    "statusMessage" : "AttributeError: 'NoneType' object has no attribute 'click'",
+    "statusTrace" : "self = <test_cases.test_create_wallet.TestCreateWallet object at 0x0000029EE89C6CB0>\ndata = {'title': '钱包密码为空字符串', 'walletName': 'Tang', 'walletPassword': '        ', 'walletPasswordHint': '密码提示', ...}\n\n    @allure.story(\"创建钱包表单测试用例\")\n    @pytest.mark.parametrize('data',\n                             LoadFile(file=os.path.join(os.path.dirname(__file__),\n                                                        '../data/test_data/create_wallet.yaml'),\n                                      mode='r'))\n    def test_create_success(self, data: dict):\n        \"\"\"\n        创建钱包成功测试用例\n        \"\"\"\n        allure.dynamic.title(data['title'])\n        log.info(f\"执行测试用例:{data['title']}\")\n        with allure.step(\"step1:点击创建钱包按钮\"):\n>           self.create_btn_click()\n\ntest_cases\\test_create_wallet.py:34: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\npages\\create_wallet_page.py:26: in create_btn_click\n    self.click(self.create_wallet_btn)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <test_cases.test_create_wallet.TestCreateWallet object at 0x0000029EE89C6CB0>\nloc = ('xpath', '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget...android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.widget.Button[1]')\n\n    def click(self, loc: tuple):\n        \"\"\"\n        点击元素\n        :param loc: 定位器\n        \"\"\"\n>       self.locator(loc=loc).click()\nE       AttributeError: 'NoneType' object has no attribute 'click'\n\nbasic\\base.py:48: AttributeError",
+    "steps" : [ {
+      "name" : "step1:点击创建钱包按钮",
+      "time" : {
+        "start" : 1671518663309,
+        "stop" : 1671518663317,
+        "duration" : 8
+      },
+      "status" : "broken",
+      "statusMessage" : "AttributeError: 'NoneType' object has no attribute 'click'\n",
+      "statusTrace" : "  File \"E:\\work\\wallet_pytest\\test_cases\\test_create_wallet.py\", line 34, in test_create_success\n    self.create_btn_click()\n  File \"E:\\work\\wallet_pytest\\pages\\create_wallet_page.py\", line 26, in create_btn_click\n    self.click(self.create_wallet_btn)\n  File \"E:\\work\\wallet_pytest\\basic\\base.py\", line 48, in click\n    self.locator(loc=loc).click()\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "6c1d357e1bd22e78",
+      "name" : "log",
+      "source" : "6c1d357e1bd22e78.txt",
+      "type" : "text/plain",
+      "size" : 7535
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "创建钱包"
+  }, {
+    "name" : "story",
+    "value" : "创建钱包表单测试用例"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_create_wallet"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCreateWallet"
+  }, {
+    "name" : "host",
+    "value" : "BN-20220124GJRT"
+  }, {
+    "name" : "thread",
+    "value" : "5600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_create_wallet"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'title': '钱包密码为空字符串', 'walletName': 'Tang', 'walletPassword': '        ', 'walletPasswordRepeat': '        ', 'walletPasswordHint': '密码提示'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "44ba9fce27913680",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663288,
+        "stop" : 1671518663298,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "ba9dd810bb420497",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663230,
+        "stop" : 1671518663270,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "10c625e4aad2e87e",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1671518663192,
+        "stop" : 1671518663206,
+        "duration" : 14
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "bcf87add2ba6251c.json",
+  "parameterValues" : [ "{'title': '钱包密码为空字符串', 'walletName': 'Tang', 'walletPassword': '        ', 'walletPasswordRepeat': '        ', 'walletPasswordHint': '密码提示'}" ]
+}

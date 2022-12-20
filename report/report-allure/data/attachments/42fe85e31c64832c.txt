@@ -1,0 +1,6 @@
+INFO     root:test_create_wallet.py:32 执行测试用例:创建钱包成功
+INFO     root:create_wallet_page.py:27 点击创建钱包按钮
+INFO     root:create_wallet_page.py:35 输入钱包名称:Tang
+INFO     root:create_wallet_page.py:43 输入钱包密码:12345678
+INFO     root:create_wallet_page.py:51 重复输入钱包密码:12345678
+INFO     root:create_wallet_page.py:59 输入钱包密码提示:这是创建成功的密码提示，密码为12345678

@@ -1,0 +1,81 @@
+[ {
+  "uid" : "3451a83bba0ca838",
+  "name" : "钱包密码大于30位字符",
+  "time" : {
+    "start" : 1671518663079,
+    "stop" : 1671518663089,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f1bbd748a14e81fd",
+  "name" : "钱包密码两次密码不一致",
+  "time" : {
+    "start" : 1671518663168,
+    "stop" : 1671518663179,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ce21ec5e7de3998f",
+  "name" : "钱包密码少于8位字符",
+  "time" : {
+    "start" : 1671518662996,
+    "stop" : 1671518663006,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "152b87ea1bd6de85",
+  "name" : "钱包密码提示大于50位字符",
+  "time" : {
+    "start" : 1671518663406,
+    "stop" : 1671518663421,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "608194752f405c3c",
+  "name" : "创建钱包成功",
+  "time" : {
+    "start" : 1671518661679,
+    "stop" : 1671518661689,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "93b76b9e3a9f2368",
+  "name" : "钱包名称大于12位长度",
+  "time" : {
+    "start" : 1671518661760,
+    "stop" : 1671518661769,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bcf87add2ba6251c",
+  "name" : "钱包密码为空字符串",
+  "time" : {
+    "start" : 1671518663308,
+    "stop" : 1671518663318,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "60a50b2491299fad",
+  "name" : "钱包名称为空格字符",
+  "time" : {
+    "start" : 1671518661845,
+    "stop" : 1671518661864,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,149 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "创建钱包",
+    "children" : [ {
+      "name" : "创建钱包表单测试用例",
+      "children" : [ {
+        "name" : "创建钱包成功",
+        "uid" : "608194752f405c3c",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518661679,
+          "stop" : 1671518661689,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '创建钱包成功', 'walletName': 'Tang', 'walletPassword': 12345678, 'walletPasswordRepeat': 12345678, 'walletPasswordHint': '这是创建成功的密码提示，密码为12345678'}" ]
+      }, {
+        "name" : "钱包名称大于12位长度",
+        "uid" : "93b76b9e3a9f2368",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518661760,
+          "stop" : 1671518661769,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包名称大于12位长度', 'walletName': 'Tangtangtangt', 'walletPassword': 12345678, 'walletPasswordRepeat': 12345678, 'walletPasswordHint': '这是创建失败的密码提示，密码为12345678'}" ]
+      }, {
+        "name" : "钱包名称为空格字符",
+        "uid" : "60a50b2491299fad",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518661845,
+          "stop" : 1671518661864,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包名称为空格字符', 'walletName': '      ', 'walletPassword': 12345678, 'walletPasswordRepeat': 12345678, 'walletPasswordHint': '这是创建失败的密码提示，密码为12345678'}" ]
+      }, {
+        "name" : "钱包密码少于8位字符",
+        "uid" : "ce21ec5e7de3998f",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518662996,
+          "stop" : 1671518663006,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包密码少于8位字符', 'walletName': 'Tang', 'walletPassword': 1234567, 'walletPasswordRepeat': 1234567, 'walletPasswordHint': '这是创建失败的密码提示，密码为1234567'}" ]
+      }, {
+        "name" : "钱包密码大于30位字符",
+        "uid" : "3451a83bba0ca838",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518663079,
+          "stop" : 1671518663089,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包密码大于30位字符', 'walletName': 'Tang', 'walletPassword': 'WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq', 'walletPasswordRepeat': 'WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq', 'walletPasswordHint': '密码提示'}" ]
+      }, {
+        "name" : "钱包密码两次密码不一致",
+        "uid" : "f1bbd748a14e81fd",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518663168,
+          "stop" : 1671518663179,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包密码两次密码不一致', 'walletName': 'Tang', 'walletPassword': 123456789, 'walletPasswordRepeat': 12345678, 'walletPasswordHint': '密码提示'}" ]
+      }, {
+        "name" : "钱包密码为空字符串",
+        "uid" : "bcf87add2ba6251c",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518663308,
+          "stop" : 1671518663318,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包密码为空字符串', 'walletName': 'Tang', 'walletPassword': '        ', 'walletPasswordRepeat': '        ', 'walletPasswordHint': '密码提示'}" ]
+      }, {
+        "name" : "钱包密码提示大于50位字符",
+        "uid" : "152b87ea1bd6de85",
+        "parentUid" : "2c057b17cd5e0f95e7907d67114e10ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1671518663406,
+          "stop" : 1671518663421,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'title': '钱包密码提示大于50位字符', 'walletName': 'Tang', 'walletPassword': 12345678, 'walletPasswordRepeat': 12345678, 'walletPasswordHint': 'NuTQLXA[qGKCXOOTYoevuMjRJBoz~E[lubHWPJv`Ysa\\\\a^ziF_E'}" ]
+      } ],
+      "uid" : "2c057b17cd5e0f95e7907d67114e10ea"
+    } ],
+    "uid" : "5845082b7f447c5379cdea0b7cb18432"
+  } ]
+}

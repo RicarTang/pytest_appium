@@ -1,0 +1,1062 @@
+2022-12-19 18:25:09,233 base.py Base INFO 初始化options完成！
+2022-12-19 18:25:13,723 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:25:13,728 test_create_wallet.py test_create_success INFO 执行测试用例创建钱包成功
+2022-12-19 18:25:16,158 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:25:18,614 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:25:20,152 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:25:21,690 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:25:22,719 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:25:26,896 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:25:26,899 test_create_wallet.py test_create_success INFO 执行测试用例钱包名称大于12位长度
+2022-12-19 18:25:27,922 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:25:29,535 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:25:30,659 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:25:31,681 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:25:32,661 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:25:36,862 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:25:36,865 test_create_wallet.py test_create_success INFO 执行测试用例钱包名称为空格字符
+2022-12-19 18:25:39,691 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:25:41,377 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:25:42,854 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:25:43,827 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:25:44,780 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:25:48,905 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:25:48,907 test_create_wallet.py test_create_success INFO 执行测试用例钱包密码少于8位字符
+2022-12-19 18:25:51,690 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:25:53,393 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:25:54,882 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:25:55,865 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:25:56,800 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:26:00,901 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:26:00,903 test_create_wallet.py test_create_success INFO 执行测试用例钱包密码大于30位字符
+2022-12-19 18:26:03,667 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:26:05,309 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:26:06,835 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:26:07,671 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:26:08,649 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:26:12,906 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:26:12,909 test_create_wallet.py test_create_success INFO 执行测试用例钱包密码两次密码不一致
+2022-12-19 18:26:15,670 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:26:17,305 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:26:18,825 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:26:19,722 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:26:20,679 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:26:24,955 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:26:24,957 test_create_wallet.py test_create_success INFO 执行测试用例钱包密码为空字符串
+2022-12-19 18:26:27,717 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:26:29,388 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:26:30,828 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:26:31,807 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:26:32,709 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+2022-12-19 18:26:36,954 test_create_wallet.py setup INFO ————开始测试！————
+2022-12-19 18:26:36,957 test_create_wallet.py test_create_success INFO 执行测试用例钱包密码提示大于50位字符
+2022-12-19 18:26:39,631 create_wallet_page.py create_btn_click INFO 点击创建钱包按钮
+2022-12-19 18:26:41,344 create_wallet_page.py wallet_name_input INFO 输入钱包名称
+2022-12-19 18:26:42,829 create_wallet_page.py wallet_password_input INFO 输入钱包密码
+2022-12-19 18:26:43,723 create_wallet_page.py wallet_password_repeat_input INFO 重复输入钱包密码
+2022-12-19 18:26:44,668 create_wallet_page.py wallet_password_hint_input INFO 输入钱包密码提示
+INFO  2022-12-20 10:05:40,775 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 10:05:44,660 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:05:44,665 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+ERROR  2022-12-20 10:05:55,096 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 10:05:59,278 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:05:59,279 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+INFO  2022-12-20 10:06:01,843 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:06:03,545 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:06:05,023 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:06:05,867 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:06:06,673 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:06:10,719 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:06:10,720 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+INFO  2022-12-20 10:06:12,582 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:06:14,166 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:06:15,043 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:06:15,868 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:06:16,883 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:06:20,898 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:06:20,899 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+INFO  2022-12-20 10:06:22,777 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:06:24,353 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:06:25,820 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:06:27,142 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:06:28,094 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:06:33,203 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:06:33,205 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+ERROR  2022-12-20 10:06:43,570 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 10:06:47,494 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:06:47,495 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+INFO  2022-12-20 10:06:50,226 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:06:52,882 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:06:53,703 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:06:54,581 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:06:56,057 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:07:00,096 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:07:00,097 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码大于30位字符
+INFO  2022-12-20 10:07:02,245 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:07:05,047 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:07:05,941 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:07:07,891 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:07:09,309 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:07:14,086 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:07:14,087 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码两次密码不一致
+INFO  2022-12-20 10:07:15,643 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:07:17,127 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:07:18,315 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:07:19,106 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:07:20,021 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:07:24,018 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:07:24,019 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+INFO  2022-12-20 10:07:25,903 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:07:27,389 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:07:28,915 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:07:30,217 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:07:30,988 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:07:34,810 - test_create_wallet.py - setup - ————开始测试！————
+INFO  2022-12-20 10:07:34,811 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码提示大于50位字符
+INFO  2022-12-20 10:07:36,661 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:07:38,473 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:07:39,346 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:07:40,134 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:07:40,945 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:32:18,019 - main.py - <module> - ————测试开始————
+INFO  2022-12-20 10:32:37,377 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 10:32:41,345 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+ERROR  2022-12-20 10:32:52,987 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 10:32:58,630 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+INFO  2022-12-20 10:33:01,412 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:33:03,037 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:33:04,017 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:33:05,018 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:33:06,896 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:33:10,811 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+INFO  2022-12-20 10:33:12,940 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:33:14,835 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:33:16,008 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:33:16,843 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:33:17,647 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:33:21,538 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+INFO  2022-12-20 10:33:23,589 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:33:25,177 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:33:25,991 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:33:26,963 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:33:28,123 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:33:31,893 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+INFO  2022-12-20 10:33:33,961 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:33:35,506 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:33:36,933 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:33:37,816 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:33:38,713 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:33:42,574 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码大于30位字符
+INFO  2022-12-20 10:33:44,405 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:33:46,711 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:33:47,522 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:33:48,967 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:33:49,897 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:33:53,855 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码两次密码不一致
+INFO  2022-12-20 10:33:55,671 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:33:57,221 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:33:58,459 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:33:59,284 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:34:00,105 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:34:04,059 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+INFO  2022-12-20 10:34:06,869 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:34:07,255 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:34:08,053 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:34:08,893 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:34:10,035 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:34:13,841 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码提示大于50位字符
+INFO  2022-12-20 10:34:15,947 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:34:17,495 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:34:19,029 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:34:19,823 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:34:20,615 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:34:24,415 - main.py - <module> - ————测试结束————
+INFO  2022-12-20 10:41:03,744 - main.py - <module> - ————测试开始————
+INFO  2022-12-20 10:41:21,494 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 10:41:25,488 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+ERROR  2022-12-20 10:41:35,689 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 10:41:39,701 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+INFO  2022-12-20 10:41:41,630 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:41:43,948 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:41:44,747 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:41:45,567 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:41:46,682 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:41:50,609 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+INFO  2022-12-20 10:41:52,559 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:41:54,204 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:41:55,645 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:41:56,443 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:41:57,251 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:42:01,119 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+INFO  2022-12-20 10:42:03,059 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:42:04,859 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:42:05,722 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:42:06,552 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:42:07,678 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:42:11,653 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+INFO  2022-12-20 10:42:13,580 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:42:15,127 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:42:16,584 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:42:17,425 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:42:18,243 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:42:22,282 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码大于30位字符
+INFO  2022-12-20 10:42:24,210 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:42:25,849 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:42:26,662 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:42:27,510 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:42:29,703 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:42:34,211 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码两次密码不一致
+INFO  2022-12-20 10:42:36,892 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:42:38,027 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:42:38,824 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:42:40,641 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:42:41,479 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:42:45,381 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+ERROR  2022-12-20 10:42:56,640 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 10:43:00,492 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+INFO  2022-12-20 10:43:02,317 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:43:03,851 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:43:04,707 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:43:05,529 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:43:06,306 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:43:10,207 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码提示大于50位字符
+INFO  2022-12-20 10:43:12,041 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 10:43:13,846 - create_wallet_page.py - wallet_name_input - 输入钱包名称
+INFO  2022-12-20 10:43:14,682 - create_wallet_page.py - wallet_password_input - 输入钱包密码
+INFO  2022-12-20 10:43:15,639 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码
+INFO  2022-12-20 10:43:16,786 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示
+INFO  2022-12-20 10:43:22,205 - main.py - <module> - ————测试结束————
+INFO  2022-12-20 11:10:43,922 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 11:11:03,265 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 11:11:07,129 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+ERROR  2022-12-20 11:11:17,743 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 11:11:21,856 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+INFO  2022-12-20 11:11:24,421 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:11:26,590 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:11:27,509 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:11:28,338 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:11:29,700 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO  2022-12-20 11:11:33,825 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+INFO  2022-12-20 11:11:35,713 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:11:37,360 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tangtangtangt
+INFO  2022-12-20 11:11:38,185 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:11:39,651 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:11:40,865 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 11:11:44,903 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+INFO  2022-12-20 11:11:46,856 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:11:48,886 - create_wallet_page.py - wallet_name_input - 输入钱包名称:      
+INFO  2022-12-20 11:11:49,984 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:11:51,383 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:11:52,656 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 11:11:56,576 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+INFO  2022-12-20 11:11:58,427 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:12:00,508 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:12:01,518 - create_wallet_page.py - wallet_password_input - 输入钱包密码:1234567
+INFO  2022-12-20 11:12:02,354 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:1234567
+INFO  2022-12-20 11:12:03,488 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为1234567
+INFO  2022-12-20 11:12:07,388 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码大于30位字符
+INFO  2022-12-20 11:12:09,714 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:12:11,765 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:12:12,674 - create_wallet_page.py - wallet_password_input - 输入钱包密码:WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+INFO  2022-12-20 11:12:13,549 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+INFO  2022-12-20 11:12:14,462 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:12:18,431 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码两次密码不一致
+INFO  2022-12-20 11:12:20,685 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:12:22,218 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:12:23,007 - create_wallet_page.py - wallet_password_input - 输入钱包密码:123456789
+INFO  2022-12-20 11:12:23,814 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:12:24,719 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:12:28,527 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+INFO  2022-12-20 11:12:30,730 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:12:32,292 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:12:33,842 - create_wallet_page.py - wallet_password_input - 输入钱包密码:        
+INFO  2022-12-20 11:12:34,633 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:        
+INFO  2022-12-20 11:12:35,427 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:12:39,561 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码提示大于50位字符
+INFO  2022-12-20 11:12:41,718 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:12:43,137 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:12:43,944 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:12:45,406 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:12:46,193 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:NuTQLXA[qGKCXOOTYoevuMjRJBoz~E[lubHWPJv`Ysa\a^ziF_E
+INFO  2022-12-20 11:12:53,225 - main.py - <module> - =====测试结束=====
+INFO  2022-12-20 11:18:33,616 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 11:18:53,301 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 11:18:57,213 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+INFO  2022-12-20 11:18:59,710 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:01,715 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:19:02,531 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:19:03,845 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:19:04,845 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO  2022-12-20 11:19:05,763 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:19:07,044 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:10,874 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+INFO  2022-12-20 11:19:12,861 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:14,482 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tangtangtangt
+INFO  2022-12-20 11:19:15,828 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:19:16,640 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:19:17,469 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 11:19:18,900 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:19:19,961 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:23,837 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+INFO  2022-12-20 11:19:25,745 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:27,883 - create_wallet_page.py - wallet_name_input - 输入钱包名称:      
+INFO  2022-12-20 11:19:28,837 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:19:29,658 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:19:30,886 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 11:19:31,648 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:19:32,895 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:36,802 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+INFO  2022-12-20 11:19:38,620 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:40,166 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:19:40,974 - create_wallet_page.py - wallet_password_input - 输入钱包密码:1234567
+INFO  2022-12-20 11:19:41,812 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:1234567
+INFO  2022-12-20 11:19:42,908 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为1234567
+INFO  2022-12-20 11:19:43,664 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:19:44,907 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:48,907 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码大于30位字符
+INFO  2022-12-20 11:19:50,743 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:19:52,277 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:19:53,080 - create_wallet_page.py - wallet_password_input - 输入钱包密码:WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+INFO  2022-12-20 11:19:53,950 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+INFO  2022-12-20 11:19:54,907 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:19:55,684 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:19:56,846 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:00,786 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码两次密码不一致
+INFO  2022-12-20 11:20:02,715 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:04,232 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:20:05,412 - create_wallet_page.py - wallet_password_input - 输入钱包密码:123456789
+INFO  2022-12-20 11:20:06,836 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:20:07,941 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:20:08,676 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:20:10,013 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:13,907 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+INFO  2022-12-20 11:20:15,780 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:17,316 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:20:18,135 - create_wallet_page.py - wallet_password_input - 输入钱包密码:        
+INFO  2022-12-20 11:20:19,061 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:        
+INFO  2022-12-20 11:20:19,859 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:20:20,617 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:20:21,812 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:25,836 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码提示大于50位字符
+INFO  2022-12-20 11:20:27,830 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:29,407 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:20:30,798 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:20:31,590 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:20:32,377 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:NuTQLXA[qGKCXOOTYoevuMjRJBoz~E[lubHWPJv`Ysa\a^ziF_E
+INFO  2022-12-20 11:20:33,830 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:20:35,080 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:20:40,380 - main.py - <module> - =====测试结束=====
+INFO  2022-12-20 11:27:48,563 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 11:28:07,169 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 11:28:11,005 - test_create_wallet.py - test_create_success - 执行测试用例创建钱包成功
+INFO  2022-12-20 11:28:13,378 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:28:15,054 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:28:16,851 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:28:17,686 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:28:18,498 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO  2022-12-20 11:28:19,448 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:28:20,671 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:28:24,544 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+ERROR  2022-12-20 11:28:35,412 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 11:28:39,643 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称大于12位长度
+INFO  2022-12-20 11:28:41,525 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:28:43,667 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tangtangtangt
+INFO  2022-12-20 11:28:44,542 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:28:45,369 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:28:46,447 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 11:28:47,226 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:28:48,304 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:28:52,123 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+ERROR  2022-12-20 11:29:02,367 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 11:29:06,367 - test_create_wallet.py - test_create_success - 执行测试用例钱包名称为空格字符
+INFO  2022-12-20 11:29:08,237 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:10,386 - create_wallet_page.py - wallet_name_input - 输入钱包名称:      
+INFO  2022-12-20 11:29:11,198 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:29:12,400 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:29:13,680 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 11:29:14,333 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:29:15,584 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:19,442 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码少于8位字符
+INFO  2022-12-20 11:29:21,320 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:22,819 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:29:23,616 - create_wallet_page.py - wallet_password_input - 输入钱包密码:1234567
+INFO  2022-12-20 11:29:24,479 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:1234567
+INFO  2022-12-20 11:29:25,526 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为1234567
+INFO  2022-12-20 11:29:26,326 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:29:27,379 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:31,265 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码大于30位字符
+INFO  2022-12-20 11:29:33,105 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:34,655 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:29:35,466 - create_wallet_page.py - wallet_password_input - 输入钱包密码:WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+INFO  2022-12-20 11:29:36,322 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+INFO  2022-12-20 11:29:37,526 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:29:38,273 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:29:39,533 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:43,340 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码两次密码不一致
+INFO  2022-12-20 11:29:45,265 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:46,791 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:29:47,594 - create_wallet_page.py - wallet_password_input - 输入钱包密码:123456789
+INFO  2022-12-20 11:29:49,382 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:29:50,278 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:29:51,025 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:29:52,475 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:56,354 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码为空字符串
+INFO  2022-12-20 11:29:58,445 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:29:59,973 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:30:01,515 - create_wallet_page.py - wallet_password_input - 输入钱包密码:        
+INFO  2022-12-20 11:30:02,308 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:        
+INFO  2022-12-20 11:30:03,114 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:密码提示
+INFO  2022-12-20 11:30:04,437 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:30:05,715 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:30:09,644 - test_create_wallet.py - test_create_success - 执行测试用例钱包密码提示大于50位字符
+INFO  2022-12-20 11:30:11,514 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 11:30:13,549 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 11:30:14,335 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 11:30:15,116 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 11:30:16,505 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:NuTQLXA[qGKCXOOTYoevuMjRJBoz~E[lubHWPJv`Ysa\a^ziF_E
+INFO  2022-12-20 11:30:17,295 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 11:30:18,404 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 11:30:22,292 - main.py - <module> - =====测试结束=====
+INFO  2022-12-20 14:40:47,084 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 14:42:30,291 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 14:42:34,259 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+ERROR  2022-12-20 14:42:45,012 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:42:48,916 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+ERROR  2022-12-20 14:42:59,355 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:43:03,024 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+INFO  2022-12-20 14:43:05,251 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 14:43:06,937 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 14:43:08,053 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 14:43:08,847 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 14:43:10,171 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO  2022-12-20 14:43:10,987 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 14:43:12,240 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 14:43:15,778 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+INFO  2022-12-20 14:43:17,671 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 14:43:19,220 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tangtangtangt
+INFO  2022-12-20 14:43:20,170 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 14:43:25,601 - main.py - <module> - =====测试结束=====
+INFO  2022-12-20 14:43:39,527 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 14:44:13,545 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 14:44:13,659 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+INFO  2022-12-20 14:44:15,531 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 14:44:17,380 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 14:44:18,397 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 14:44:19,239 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 14:44:20,078 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO  2022-12-20 14:44:21,636 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+ERROR  2022-12-20 14:44:21,647 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,658 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+ERROR  2022-12-20 14:44:21,668 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,679 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+ERROR  2022-12-20 14:44:21,688 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,700 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:44:21,710 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,720 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:44:21,729 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,740 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:44:21,749 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,760 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:44:21,769 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,781 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+ERROR  2022-12-20 14:44:21,793 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,804 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+ERROR  2022-12-20 14:44:21,812 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,823 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+ERROR  2022-12-20 14:44:21,832 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,845 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+ERROR  2022-12-20 14:44:21,862 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,880 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码少于8位字符
+ERROR  2022-12-20 14:44:21,892 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:21,911 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码少于8位字符
+ERROR  2022-12-20 14:44:22,954 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:22,974 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码少于8位字符
+ERROR  2022-12-20 14:44:22,983 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:22,995 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码少于8位字符
+ERROR  2022-12-20 14:44:23,005 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,016 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码大于30位字符
+ERROR  2022-12-20 14:44:23,026 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,037 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码大于30位字符
+ERROR  2022-12-20 14:44:23,047 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,059 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码大于30位字符
+ERROR  2022-12-20 14:44:23,067 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,079 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码大于30位字符
+ERROR  2022-12-20 14:44:23,087 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,102 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码两次密码不一致
+ERROR  2022-12-20 14:44:23,110 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,123 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码两次密码不一致
+ERROR  2022-12-20 14:44:23,133 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,145 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码两次密码不一致
+ERROR  2022-12-20 14:44:23,156 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,167 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码两次密码不一致
+ERROR  2022-12-20 14:44:23,177 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,192 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码为空字符串
+ERROR  2022-12-20 14:44:23,205 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,229 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码为空字符串
+ERROR  2022-12-20 14:44:23,268 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,287 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码为空字符串
+ERROR  2022-12-20 14:44:23,296 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,307 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码为空字符串
+ERROR  2022-12-20 14:44:23,316 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,328 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码提示大于50位字符
+ERROR  2022-12-20 14:44:23,338 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,350 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码提示大于50位字符
+ERROR  2022-12-20 14:44:23,358 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,369 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码提示大于50位字符
+ERROR  2022-12-20 14:44:23,377 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:23,406 - test_create_wallet.py - test_create_success - 执行测试用例:钱包密码提示大于50位字符
+ERROR  2022-12-20 14:44:23,419 - base.py - locator - Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+    at JWProxy.command$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:238:13)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:44:27,939 - main.py - <module> - =====测试结束=====
+INFO  2022-12-20 14:45:25,484 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 14:46:00,729 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 14:46:29,211 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 14:46:29,341 - test_create_wallet.py - test_create_success - 执行测试用例:创建钱包成功
+INFO  2022-12-20 14:46:31,003 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 14:46:32,664 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tang
+INFO  2022-12-20 14:46:33,440 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 14:46:34,214 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 14:46:35,286 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建成功的密码提示，密码为12345678
+INFO  2022-12-20 14:46:36,138 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 14:46:37,354 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 14:46:37,360 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:46:48,266 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:46:48,467 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:46:58,790 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:46:58,806 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:47:09,501 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:47:09,518 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+ERROR  2022-12-20 14:47:21,197 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:47:21,216 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+ERROR  2022-12-20 14:47:31,619 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:47:31,650 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+INFO  2022-12-20 14:49:47,961 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 14:50:23,354 - main.py - <module> - =====测试开始=====
+INFO  2022-12-20 14:50:41,714 - base.py - Base - 初始化options完成！
+INFO  2022-12-20 14:50:41,782 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称大于12位长度
+INFO  2022-12-20 14:50:43,521 - create_wallet_page.py - create_btn_click - 点击创建钱包按钮
+INFO  2022-12-20 14:50:45,224 - create_wallet_page.py - wallet_name_input - 输入钱包名称:Tangtangtangt
+INFO  2022-12-20 14:50:46,069 - create_wallet_page.py - wallet_password_input - 输入钱包密码:12345678
+INFO  2022-12-20 14:50:47,488 - create_wallet_page.py - wallet_password_repeat_input - 重复输入钱包密码:12345678
+INFO  2022-12-20 14:50:48,328 - create_wallet_page.py - wallet_password_hint_input - 输入钱包密码提示:这是创建失败的密码提示，密码为12345678
+INFO  2022-12-20 14:50:49,194 - create_wallet_page.py - user_agreement_click - 点击用户协议
+INFO  2022-12-20 14:50:50,467 - create_wallet_page.py - create_wallet_confirm_click - 点击创建钱包按钮
+INFO  2022-12-20 14:50:50,480 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符
+ERROR  2022-12-20 14:51:01,673 - base.py - locator - Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.callee$0$0$ (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+    at tryCatch (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+    at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+    at GeneratorFunctionPrototype.prototype.(anonymous function) [as throw] (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+    at GeneratorFunctionPrototype.invoke (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+    at run (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:75:1)
+    at C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\es6.promise.js:92:1
+    at flush (C:\Users\BFChainer\AppData\Local\Programs\Appium\resources\app\webpack:\~\babel-polyfill\~\core-js\modules\_microtask.js:18:1)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+INFO  2022-12-20 14:51:01,904 - test_create_wallet.py - test_create_success - 执行测试用例:钱包名称为空格字符

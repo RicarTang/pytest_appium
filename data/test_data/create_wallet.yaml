@@ -1,0 +1,40 @@
+- title: 钱包名称大于12位长度
+  walletName: Tangtangtangt
+  walletPassword: 12345678
+  walletPasswordRepeat: 12345678
+  walletPasswordHint: 这是创建失败的密码提示，密码为12345678
+- title: 钱包名称为空格字符
+  walletName: "      "
+  walletPassword: 12345678
+  walletPasswordRepeat: 12345678
+  walletPasswordHint: 这是创建失败的密码提示，密码为12345678
+- title: 钱包密码少于8位字符
+  walletName: Tang
+  walletPassword: 1234567
+  walletPasswordRepeat: 1234567
+  walletPasswordHint: 这是创建失败的密码提示，密码为1234567
+- title: 钱包密码大于30位字符
+  walletName: Tang
+  walletPassword: WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+  walletPasswordRepeat: WR_]XXP[FcBEVawBuI{yM}`fPz{xAlq
+  walletPasswordHint: 密码提示
+- title: 钱包密码两次密码不一致
+  walletName: Tang
+  walletPassword: 123456789
+  walletPasswordRepeat: 12345678
+  walletPasswordHint: 密码提示
+- title: 钱包密码为空字符串
+  walletName: Tang
+  walletPassword: "        "
+  walletPasswordRepeat: "        "
+  walletPasswordHint: 密码提示
+- title: 钱包密码提示大于50位字符
+  walletName: Tang
+  walletPassword: 12345678
+  walletPasswordRepeat: 12345678
+  walletPasswordHint: NuTQLXA[qGKCXOOTYoevuMjRJBoz~E[lubHWPJv`Ysa\a^ziF_E
+- title: 创建钱包成功
+  walletName: Tang
+  walletPassword: 12345678
+  walletPasswordRepeat: 12345678
+  walletPasswordHint: 这是创建成功的密码提示，密码为12345678
